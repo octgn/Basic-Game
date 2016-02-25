@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <game name="Default Game"
-    id="a3f2bdfa-9002-4527-8e48-11f2a667c06c"
+    id="SAMPLEID-GUID-0000-0000-00000000GAME"
     version="1.0.0.0" 
     tags="game"
     description="A base game plugin ready to be customized"
