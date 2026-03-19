@@ -1,0 +1,12 @@
+{
+  "guid": "d3c4b5a6-e7f8-4901-a2b3-c4d5e6f70189",
+  "name": "Basic Game Template",
+  "version": "1.0.0.0",
+  "versionDate": "2026-03-19T15:00:00Z",
+  "description": "A base game plugin ready to be customized",
+  "authors": ["brine"],
+  "minimumOctgnVersion": "3.1.240.0",
+  "gamePath": "Game Plugin",
+  "tags": ["template", "game"],
+  "changelog": "Initial manifest for repo-based distribution"
+}
